@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin:auto;
+    margin-top: 300px;
+    width: 1200px;
+}
+
+.container h2 {
+    margin-bottom: 20px;
+}
+.container p {
+    margin-bottom: 10px;
+}
+
+#sconti h2 {
+    margin-top: 50px;
+    margin-left: 600px;
+    font-size: 30px;
+}
+
+#sconti span {
+    margin-left: 530px;
+    font-size: 30px;
+    color: coral;
+}
+
+#dati {
+    margin-left: 150px;
+    padding: 20px;
+    background-color: #ebebeb;
+    border: 1px solid darkgrey;
+}
+
+#minore {
+    float: left;
+    margin-top: 50px;
+    margin-left: 280px;
+    margin-right: 350px;
+    padding: 20px;
+    background-color: #ebebeb;
+    border: 1px solid darkgrey;
+}
+
+#over {
+    margin-top: 50px;
+    float: left;
+    padding: 20px;
+    background-color: #ebebeb;
+    border: 1px solid darkgrey;
+}
